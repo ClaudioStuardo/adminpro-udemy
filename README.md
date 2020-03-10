@@ -1,27 +1,35 @@
-# Adminpro2
+# Adminpro (front-end)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
+Curso en línea de Udemy para aprender/practicar MEAN (MongoDB, Express, Angular, NodeJS) de manera avanzada.
 
-## Development server
+## Instalar paquetes de Node
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```
+npm install
+```
 
-## Code scaffolding
+## Link del curso 🛠️
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* [Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN](https://udemy.com/course/angular-avanzado-fernando-herrera/)
 
-## Build
+## Link del certificado 📄
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+* [Credencial](https://ude.my/UC-71G1DJJ8)
 
-## Running unit tests
+## Descripción 🚀
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Temas vistos:_
+* MEAN
+* Google Signin
+* JWT
+* Carga de archivos
+* Lazyload
+* Optimizaciones
+* Git
+* GitHub
+* Panel administrativo
+* Etc
 
-## Running end-to-end tests
+## Autor ✒️
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* **Claudio Stuardo** - [ClaudioStuardo](https://github.com/ClaudioStuardo)
